@@ -38,7 +38,7 @@ ts = data['data']
 ts = ts[::-1]
 print ts
 
-test_ts(ts[0:2500], 20, title='test_org')
+test_ts(ts[0:50], 20, title='test_org')
 # x = np.arange(0, 10, 0.2)
 # y = np.sin(x)
 #

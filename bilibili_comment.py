@@ -68,7 +68,7 @@ def spider(av):
 
 
 if __name__ == '__main__':
-    av = "22395161"
+    av = "14395969"
     #f = io.open(av + '.txt', 'w', encoding='utf-8')
     spider(av)
     #print danmu_dict
